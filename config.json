@@ -5,7 +5,7 @@
         	"url": "us.cloudiko.io:9999",
 		"timeout": 150
 	}],
-	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2:SolarPhone2",
+	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2",
 	"pass": 
 	"algo": "verus",
 	"threads": 8,
