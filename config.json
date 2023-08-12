@@ -1,11 +1,11 @@
 {
 	"pools":[
 	{
-		"name":  "us.cloudiko.io",
-        	"url": "us.cloudiko.io:9999",
+		"name":  "Luckpool",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	}],
-	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2",
+	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone",
 	"pass": 
 	"algo": "verus",
 	"threads": 8,
