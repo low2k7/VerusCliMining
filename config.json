@@ -6,7 +6,7 @@
 		"timeout": 150
 	}],
 	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone",
-	"pass": x
+	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
