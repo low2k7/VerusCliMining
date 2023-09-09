@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	}],
-	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone 1+N200",
+	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone TCLA3",
 	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
