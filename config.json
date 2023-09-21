@@ -1,11 +1,11 @@
 {
 	"pools":[
 	{
-		"name":  "Luckpool",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name":  "Vipor",
+        	"url": "stratum+tcp://usse.vipor.net:5040",
 		"timeout": 150
 	}],
-	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone TCLA3X",
+	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone Note 8",
 	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
