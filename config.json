@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://usse.vipor.net:5040",
 		"timeout": 150
 	}],
-	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.DNS1",
+	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.DNS2",
 	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
